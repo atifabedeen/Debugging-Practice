@@ -2,7 +2,7 @@
 
 # Todo
 
-- [ ] Topics
+- [ ] Topics (Videos)
   - [ ] What is a debugger
   - [ ] Adding breakpoints
   - [ ] Debug Console (+ hover over variables)
@@ -16,3 +16,5 @@
   - [ ] Add tasks
   - [ ] Add solution
   - [ ] Add tests
+     
+- [ ] Develop code for the videos
