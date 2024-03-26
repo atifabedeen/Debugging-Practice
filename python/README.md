@@ -8,6 +8,8 @@
   - [ ] Debug Console (+ hover over variables)
   - [ ] Step through
   - [ ] Step into
+  - [ ] Step back
+  - [ ] Help explain call by ref vs call by value
 - [ ] Create videos
 - [ ] Add text
 - [ ] Add exercise
