@@ -3,7 +3,7 @@
 # Todo
 
 - [ ] Topics (Videos)
-  - [ ] What is a debugger
+  - [ ] What is a debugger + How to setup debugger
   - [ ] Adding breakpoints
   - [ ] Debug Console (+ hover over variables)
   - [ ] Step through
