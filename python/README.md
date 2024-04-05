@@ -1,5 +1,4 @@
 # Debugging Practice in VSCode with Python
-
 # Todo
 
 - [ ] Topics (Videos)
