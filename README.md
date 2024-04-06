@@ -6,6 +6,7 @@ The project has 2 versions, Python and Java, in their corresponding directories.
 
 # Intro to Debugging:
 Watch video:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4Zfbp7QbRfA/0.jpg)](https://youtu.be/4Zfbp7QbRfA)
 
 # TO-DO (THIS WEEK):
