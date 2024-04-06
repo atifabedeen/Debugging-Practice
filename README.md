@@ -5,7 +5,7 @@ This is a project for CS879. The goal of this project is to teach students debug
 The project has 2 versions, Python and Java, in their corresponding directories.
 
 # Intro to Debugging:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/4Zfbp7QbRfA)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4Zfbp7QbRfA/0.jpg)](https://youtu.be/4Zfbp7QbRfA)
 
 # TO-DO (THIS WEEK):
 - Create the video "What is a debugger + How to set-up" - Atif
