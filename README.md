@@ -9,7 +9,8 @@ Watch video:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/4Zfbp7QbRfA/0.jpg)](https://youtu.be/4Zfbp7QbRfA)
 
-# TO-DO (COMPLETED):
+# TO-DO
+ # (COMPLETED):
 - Create the video "What is a debugger + How to set-up" - Atif
 - Text version of the video - Helia
 - Create the Java Code to be used in the videos - Mohammedreza
