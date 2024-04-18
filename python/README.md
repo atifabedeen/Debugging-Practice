@@ -18,6 +18,10 @@ To set a breakpoint, click in the left margin of the line you want to break at. 
 
 Now run your debugger again. You'll see that the debugger has stopped at your breakpoint. On the debugger console, you can see the values of the variables, as well as the call stack, at this step. Here, check that the value of `result` is 1, `i` is 1, and `n` is 5. The breakpoint helps you stop the program at precisely the right line, and you can then navigate through your code step by step. 
 
+## Navigating your code using the Debugger Controls
+
+Video: [https://youtu.be/-tAK8EvjamE]
+
 # Todo
 
 - [ ] Topics (Videos)
