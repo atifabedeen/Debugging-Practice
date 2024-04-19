@@ -1,4 +1,4 @@
-public class Hanoi {
+public class HanoiTask2 {
 
 	public static void main(String[] args) {
 		hanoi3CallingSimplerMethods("A","B", "C");
