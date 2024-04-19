@@ -1,4 +1,4 @@
-public class Hanoi {
+public class HanoiTask1 {
 
 	public static void main(String[] args) {
 		hanoi1HardCoded("A", "C");
