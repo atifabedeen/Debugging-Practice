@@ -43,7 +43,7 @@ The opposite of step into. You can step out of the function you are currently de
 Helps you restart the debugger from your first breakpoint if you think you messed up or need to debug again.
 
 ## TO-DO: DEBUGGING EXERCISE IN PYTHON
-Now that you know how to use a debugger, [here is a 30-minute exercise](https://docs.google.com/document/d/19LYyjmFTa6E4lpxX-TTJ6gPrdu4rs0CPuxoHGVHuay0/edit?usp=sharing) that will help you practice and improve your skills in debugging while also improving your skills in code readability, problem-solving skills, and keeping you on top of important Python-specific concepts.
+Now that you know how to use the debugger, [here is a 30-minute exercise](https://docs.google.com/document/d/19LYyjmFTa6E4lpxX-TTJ6gPrdu4rs0CPuxoHGVHuay0/edit?usp=sharing) that will help you practice and improve your skills in debugging while also improving your skills in code readability, problem-solving skills, and keeping you on top of important Python-specific concepts.
  
 # Todo
 
