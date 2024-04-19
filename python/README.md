@@ -20,6 +20,7 @@ Now run your debugger again. You'll see that the debugger has stopped at your br
 
 ## Navigating your code using the Debugger Controls
 Video:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-tAK8EvjamE/0.jpg)](https://youtu.be/-tAK8EvjamE)
 
 # Todo
