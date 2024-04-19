@@ -6,11 +6,11 @@ Video: [The Debugging Console and Breakpoints](https://drive.google.com/file/d/1
 
 To start debugging, find the "Run & Debug" tab, or press cmd + shift + D.
 
-The, click "Run & Debug" with the file you want to debug. Try this with the file `task0.py`.
+Then, click "Run & Debug" with the file you want to debug. Try this with the file `task0.py`.
 
-The debugger will stop on exceptions and show you the values of the variables at the current step. For example, you can see that there's an exception where the value of `result` is not 120. 
+The debugger will stop exceptions and show you the values of the variables at the current step. For example, you can see that there's an exception where the value of `result` is not 120. 
 
-You can see the values on the debugging console to the left. This console shows you the values of the variables, as well as the call stack, which are the functions currently in process. Here, `result` is 24.
+You can see the values on the debugging console to the left. This console shows you the values of the variables, as well as the call stack, which are the functions currently in process. Here, the `result` is 24.
 
 The next step in debugging your program is to set a breakpoint. A breakpoint is a point in your code where the debugger will stop. Set a breakpoint on line 9.
 
@@ -28,11 +28,15 @@ In this video, I go over the important debugging controls available in VSCode. S
 Their basic functionalities are as follows: 
 
 ### Continue:
+This helps you execute your code "normally" from your current breakpoint until you hit another one or if your program reaches the end and terminates. This is helpful in cases where you want to cycle through your breakpoints in your program quickly instead of stepping over every single line.
+
+### Step Over:
+By far the most important feature of the debugger. This button helps you 
 
 # Todo
 
 - [ ] Topics (Videos)
-  - [ ] What is a debugger + How to setup debugger
+  - [ ] What is a debugger + How to setup a debugger
   - [ ] Adding breakpoints
   - [ ] Debug Console (+ hover over variables)
   - [ ] Step through
