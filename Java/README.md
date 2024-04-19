@@ -24,3 +24,14 @@ Lastly, we have 'Step Out'. Step-out helps us exit from the current method being
 Additionally, in the debugging toolbar, you'll find buttons to restart or stop the debugging session, providing further control over program execution.
 
 By mastering these debugging actions and shortcuts in VSCode, you'll efficiently navigate your Java code, diagnose bugs effectively, and streamline your debugging workflow.
+
+
+[Analyzing Local Variables in Tower of Hanoi](https://youtu.be/OscVMvuHahY)
+
+In this video, we dive into an exercise on analyzing local variables in the Tower of Hanoi problem using Java.
+
+We start by setting a breakpoint at the first line of the hanoi1CallingSimplerMethods method. This method is called from the main method with arguments "A", "B", and "C".
+
+When the program pauses at this breakpoint, we analyze the values of the local variables start and end. In our case, the values will be "A" and "B" respectively, as determined by the method calls in the code.
+
+This exercise highlights the importance of understanding the state of your program and the values of local variables at different points during execution, especially when debugging.
