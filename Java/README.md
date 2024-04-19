@@ -8,3 +8,19 @@ Firstly, let's understand breakpoints. These are markers we can place in our cod
 Once breakpoints are set, we can run our Java program in debug mode by clicking on the 'Run and Debug' button. When the program reaches a breakpoint, execution pauses, and we can utilize the debugging console to inspect variables and expressions. You can access the debugging console by clicking on the 'Debug Console' tab at the bottom of the VSCode interface.
 
 In the debugging console, we can interact with the program, evaluate expressions, and even modify variables to observe their impact on the program's behavior. These tools are invaluable for identifying and fixing bugs in our Java code, providing us with a deeper understanding of our programs' execution flow and state.
+
+[Debugging Actions and Shortcuts in Java](https://youtu.be/EJFRRmVuafQ)
+
+In this segment, we'll delve into six fundamental debugging actions in Java: continue, step-over, step-into, step-out, restart, and stop. These actions are crucial for efficiently navigating through your code during debugging sessions.
+
+Firstly, let's introduce the 'Continue' action. This resumes program execution until the next breakpoint or program termination, helping us proceed through our code seamlessly. You can trigger this action by pressing F5.
+
+Next, we have 'Step Over'. This action allows us to execute a line of code without entering into method calls. It's perfect for quickly navigating through code sections without diving into method details. You can perform step-over by pressing F10.
+
+Now, let's discuss 'Step Into'. This action enables us to enter into method calls during debugging sessions, allowing us to inspect the behavior of each method. You can execute step-into by pressing F11.
+
+Lastly, we have 'Step Out'. Step-out helps us exit from the current method being executed and return to its caller. This is useful when we find ourselves deep within method calls and want to quickly return to higher-level code. You can execute step-out by pressing Shift + F11 keys simultaneously.
+
+Additionally, in the debugging toolbar, you'll find buttons to restart or stop the debugging session, providing further control over program execution.
+
+By mastering these debugging actions and shortcuts in VSCode, you'll efficiently navigate your Java code, diagnose bugs effectively, and streamline your debugging workflow.
