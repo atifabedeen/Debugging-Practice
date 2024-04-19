@@ -26,7 +26,8 @@ Additionally, in the debugging toolbar, you'll find buttons to restart or stop t
 By mastering these debugging actions and shortcuts in VSCode, you'll efficiently navigate your Java code, diagnose bugs effectively, and streamline your debugging workflow.
 
 
-[Analyzing Local Variables in Tower of Hanoi](https://youtu.be/OscVMvuHahY)
+[Analyzing Local Variables in Tower of Hanoi](https://youtu.be/OscVMvuHahY)[
+[Exercise](https://docs.google.com/document/d/1xIKBe47kW_b2wWwAojmTIssRX0Qlribj5UsgJqOedzo/edit)
 
 In this video, we dive into an exercise on analyzing local variables in the Tower of Hanoi problem using Java.
 
