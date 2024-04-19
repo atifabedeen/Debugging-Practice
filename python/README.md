@@ -23,6 +23,12 @@ Video:
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/-tAK8EvjamE/0.jpg)](https://youtu.be/-tAK8EvjamE)
 
+In this video, I go over the important debugging controls available in VSCode. Specifically, Continue, Step Over, Step Into, Step Out, and Restart. 
+
+Their basic functionalities are as follows: 
+
+### Continue:
+
 # Todo
 
 - [ ] Topics (Videos)
