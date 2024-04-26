@@ -25,4 +25,4 @@ In the following videos, you will learn the concept of "being in the debugging m
 
 [Here is the link to the Python exercise](https://docs.google.com/document/d/19LYyjmFTa6E4lpxX-TTJ6gPrdu4rs0CPuxoHGVHuay0/edit?usp=sharing) to practice your debugging skills. It should take about 30 minutes to complete. 
 
-Here is the link to a [feedback survey](https://forms.gle/LGsq5BGE6tH5HfTBA) to tell us what you think about this activity! Your feedback is valuable to us.
+[Here is the link to a feedback survey](https://forms.gle/LGsq5BGE6tH5HfTBA) to tell us what you think about this activity! Your feedback is valuable to us.
