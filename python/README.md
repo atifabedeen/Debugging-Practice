@@ -45,20 +45,6 @@ Helps you restart the debugger from your first breakpoint if you think you messe
 ## TO-DO: DEBUGGING EXERCISE IN PYTHON
 Now that you know how to use the debugger, [here is a 30-minute exercise](https://docs.google.com/document/d/19LYyjmFTa6E4lpxX-TTJ6gPrdu4rs0CPuxoHGVHuay0/edit?usp=sharing) that will help you practice and improve your skills in debugging while also improving your skills in code readability, problem-solving skills, and keeping you on top of important Python-specific concepts.
  
-# Todo
+## Next Steps: Tell us what you think!
+Here is the link to a [feedback survey](https://forms.gle/LGsq5BGE6tH5HfTBA) to tell us what you think about this activity! Your feedback is valuable to us.
 
-- [ ] Topics (Videos)
-  - [ ] What is a debugger + How to setup a debugger
-  - [ ] Adding breakpoints
-  - [ ] Debug Console (+ hover over variables)
-  - [ ] Step through
-  - [ ] Step into
-  - [ ] Step back
-  - [ ] Help explain call by ref vs call by value
-- [ ] Create videos
-- [ ] Add text
-- [ ] Add exercise
-  - [ ] Add tasks
-  - [ ] Add solution
-  - [ ] Add tests
-- [ ] Develop code for the videos
