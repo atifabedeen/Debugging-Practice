@@ -23,9 +23,8 @@ Then if you click on the "run and debug" option, after a moment, you are in debu
 
 In the following videos, you will learn the concept of "being in the debugging mode" and how you can set up breaking points. Additionally, you will learn the meaning of commands "continue",  "step over",  "step into" and "step all".
 
-### Click the Python folder for resources in using the debugger in Python!
-### Alternatively,
-### Click the Java folder for resources in using the debugger in Java!
+### Click the Python folder for more resources in using the debugger in Python!
+### Alternatively, click the Java folder for more resources in using the debugger in Java!
 
 [Here is the link to the Python exercise](https://docs.google.com/document/d/19LYyjmFTa6E4lpxX-TTJ6gPrdu4rs0CPuxoHGVHuay0/edit?usp=sharing) to practice your debugging skills. It should take about 30 minutes to complete. 
 
