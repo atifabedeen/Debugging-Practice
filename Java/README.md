@@ -37,4 +37,9 @@ When the program pauses at this breakpoint, we analyze the values of the local v
 
 This exercise highlights the importance of understanding the state of your program and the values of local variables at different points during execution, especially when debugging.
 
+[Debugging using debugger](https://youtu.be/JGa0LW2-ZOU)
+
+In this video, we try to find a bug in a code using a debugger and perform step-into and step-over actions. We read our code line by line to identify the problem. After finding the problem, we correct it, and then we ensure that we have solved all the issues.
+
+
 Here is the link to a [feedback survey](https://forms.gle/LGsq5BGE6tH5HfTBA) to tell us what you think about this activity! Your feedback is valuable to us.
